@@ -1,0 +1,4 @@
+requests
+numpy
+kivy
+kivymd<2

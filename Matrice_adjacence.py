@@ -2,7 +2,6 @@
 """
 ************************
 @author : Gabin
-@contact : gabin.mondongou@auxlazaristeslasalle.fr
 created on : Tue Jan 10 20:47:32 2023
 last mod : 2022
 title : notitle

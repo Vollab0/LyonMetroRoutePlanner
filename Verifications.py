@@ -1,7 +1,6 @@
 """
 ************************
 @author : damie
-@contact : damien.reynier@auxlazaristeslasalle.fr
 created on : Thu Mar 23 23:12:38 2023
 last mod : 
 title : 
